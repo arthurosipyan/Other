@@ -1,0 +1,42 @@
+**Gettting Started with Qlik Sense**
+-
+# ![](https://i0.wp.com/zappysys.com/blog/wp-content/uploads/2018/07/logo-qlik-sense.png?ssl=1 "Qlik Sense")
+
+## Table of Contents:
+- [Required]() 
+- [Setup]() 
+- [Running Qlik Sense]()
+- [Additional Notes]()
+- [Other Helpful Resources]() 
+- [Author]()
+- [License and Code of Conduct]()
+
+
+## Required:
+- [Qlik Sense Account]() 
+- [Qlik Sense Application]() 
+
+## Setup:
+
+1. Download [Qlik Sense](https://www.qlik.com/us/try-or-buy/download-qlik-sense)
+4. Enter both your client credentials and **company name** (https://{**company name**}.jamacloud.com)
+5. Say hello to JamaScript, your personal migrate assistant!
+
+## Running JamaScript:
+
+
+## Master Releases File Format:
+
+- Manually add a new table called "Master Releases" with the following headers
+- This will be the master table to target our data mappings from Agiloft Releases, Jira ERFs, and Projector.
+
+| Project Manager | Program Name | Release Name | Release Id | Avg Count of Resource Eqvuivalents | Release Cost | Release Start Date | Release Date | ERF | ERF Title | BC from Jira | Release Status | Stage | ERF Business Case |
+| ----------------|:-----:|:------------:|:------------:|:-------------:|:--------------:|:------------:|:------------:|:-------------:|:--------------:|:------------:|:------------:|:-------------:|:--------------:|
+
+## Additional Notes:
+
+- ...
+
+## Author
+
+* **Arthur Osipyan** - *Software Engineer* - [Website](https://www.arthurosipyan.me/)
