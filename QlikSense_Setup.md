@@ -105,6 +105,7 @@ Now that we have our data models successfully imported and mapped accordingly, w
  
 ## Additional Notes
 
+- The data will obviously need to be polished, but the concept shows that we can bring multiple data sets together with the correct logic and data flow
 - Qlik Sense can be "buggy" and unresponsive at times, which is usually fixed with restarting the application
 - Qlik Sense can run in the browser (http://localhost:4848/hub/my/work)
 - Some other tutorials and resources to better understand Qlik Sense's capabilities:
