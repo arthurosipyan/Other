@@ -4,13 +4,13 @@
 ### Note: This guide uses a specific data set as an example, but the methods used can be applied to any project.
 
 ## Table of Contents
-- [Required]() 
-- [Setup]() 
-- [Data Modeling]()
-- [Data Manipulation and Presentation]()
-- [Additional Notes]()
-- [Author]()
-- [License and Code of Conduct]()
+- [Required](https://github.com/arthurosipyan/Other/blob/master/QlikSense_Setup.md#required) 
+- [Setup](https://github.com/arthurosipyan/Other/blob/master/QlikSense_Setup.md#setup) 
+- [Data Modeling](https://github.com/arthurosipyan/Other/blob/master/QlikSense_Setup.md#data-modeling)
+- [Data Manipulation and Presentation](https://github.com/arthurosipyan/Other/blob/master/QlikSense_Setup.md#data-manipulation-and-presentation)
+- [Additional Notes](https://github.com/arthurosipyan/Other/blob/master/QlikSense_Setup.md#additional-notes)
+- [Author](https://github.com/arthurosipyan/Other/blob/master/QlikSense_Setup.md#author)
+- [License and Code of Conduct](https://github.com/arthurosipyan/Other/blob/master/QlikSense_Setup.md#license-and-code-of-conduct)
 
 
 ## Required
